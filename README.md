@@ -1,5 +1,5 @@
 
-<h1 align="center">Halo 👋,saya adalah andry</h1>
+<h1 align="center">Halo 👋,saya adalah Andry Septian Syahputra Tumaruk</h1>
 <p align="center">mahasiswa informatika🤖 ML,AI Engineering,Web Developer</p>
 
 # 💫 About Me:
