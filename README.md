@@ -8,7 +8,8 @@
 
 # 💫 About Me:
 - 🎓 **Statistics Student** at Universitas Widyatama 
-- 📊 Skill saya **Machine Learning, AI,Data Science,Web Developer**   
+- 📊 Skill saya **Machine Learning, AI,Data Science,Web Developer**
+  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/andry.tumaruk/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/andry-tumaruk-5033642a5/) 
@@ -32,4 +33,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=naqel09&icon=1&color=0)](https://visitcount.itsvg.in)
 
+![snake gif](https://github.com/naqel09/naqel09/blob/output/github-snake-dark.svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
